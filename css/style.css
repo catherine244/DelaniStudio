@@ -1,0 +1,51 @@
+html{
+    scroll-behavior: smooth;
+  }
+  body{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size: 2vh;
+    text-align: center;
+  }
+  #top {
+    background-image: url("https://bit.ly/2q6Vdnj");
+    height:90vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    font-family: "Merriweather";
+  }
+  .row {
+    width: 100%;
+    color: white;
+  }
+
+      
+
+
+  .row img:first-child {
+    margin-bottom: 2.5%;
+    margin-top: 70px;
+  }
+  .About {
+    background-color: white;
+    padding: 10px;
+    font-size: 2.5vh;
+    font-weight: bold;
+  }
+  .services {
+    background-image: url("https://bit.ly/2qShTrA");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 10px;
+    font-size: 2.5vh;
+    font-weight: bold;
+  }
+  .About, .services {
+    font-family: "Lora";
+  }
