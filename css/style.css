@@ -1,32 +1,26 @@
 html{
     scroll-behavior: smooth;
-  }
-  body{
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    font-size: 2vh;
-    text-align: center;
-  }
+}
+
   #top {
     background-image: url("https://bit.ly/2q6Vdnj");
-    height:90vh;
+    height:100vh;
     background-repeat: no-repeat;
-    background-attachment: fixed;
     background-position: center;
-    background-size: cover;
     font-family: "Merriweather";
+    display: flex;
+    text-align: center;
+    background-size: cover;
+
+  }
+  #about h1{
+     text-align: center;
   }
   .row {
     width: 100%;
     color: white;
   }
-
-      
-
-
-  .row img:first-child {
+   .row img:first-child {
     margin-bottom: 2.5%;
     margin-top: 70px;
   }
@@ -35,6 +29,9 @@ html{
     padding: 10px;
     font-size: 2.5vh;
     font-weight: bold;
+  }
+  .services h1{
+    text-align: center;
   }
   .services {
     background-image: url("https://bit.ly/2qShTrA");
@@ -48,4 +45,137 @@ html{
   }
   .About, .services {
     font-family: "Lora";
+  }
+   h3 {
+    text-align: center;
+    font-family: Spectral;
+  }
+  
+  div#what-we-do-title {
+      padding-top: 2%;
+  }
+  
+  div#portfolio h3 {
+      padding: 2%;
+      font-family: Spectral;
+  }
+  
+  .portfolio h1{
+    text-align: center;
+    padding-bottom: 3%;
+    padding-top:3%;
+  }
+  
+  .portfolio img{
+  width:100%;
+  height: auto;
+  }
+  
+  .portoverlay1,.portoverlay2, .portoverlay3,.portoverlay4,.portoverlay5,.portoverlay6,.portoverlay7,.portoverlay8{
+      width:95%;
+      color:white;
+      height:91%;
+      position: absolute;
+      top:0;
+      background-color: rgba(0, 0, 0, 0.7);
+      display:none;
+  
+  }
+  
+  .port1{
+    padding-top:3%;
+  }
+  
+  img.w-100 {
+    padding-bottom: 3%;
+  }
+  .overlaycontent,.overlaycontent1,.overlaycontent2,.overlaycontent3,.overlaycontent4,.overlaycontent5,.overlaycontent6,.overlaycontent7:hover{
+  
+   width:90%;
+   margin-top: 35%;
+   margin-left: 5%;
+   height: 90%;
+   position: relative;
+  }
+  
+  .portoverlay1 h1,.portoverlay2 h1,.portoverlay3 h1,.portoverlay4 h1,.portoverlay5 h1,.portoverlay6 h1,.portoverlay7 h1,.portoverlay8 h1{
+      padding-top: 3%;
+      text-align: left;
+      font-weight: 800px;
+      font-size: 30px;
+      font-family: Spectral;
+  
+  }
+  
+  .contact-us {
+    background-image: url(../images/backgrounds/c_image.jpg);
+    background-size: cover;
+    width: 100%;
+    color: white;
+  }
+  
+  .contact-us h3 {
+    padding: 2%;
+    font-family: Spectral;
+  }
+  
+  button#submit-button {
+      border: solid;
+      border-style: double;
+      border-color: white;
+      background-color: white;
+  }
+  
+  .row.button {
+      padding-bottom: 1%;
+  }
+  
+  h1#contact-header {
+      color: white;
+      padding: 2%;
+      font-family: Spectral;
+  }
+  
+  div#footer {
+      padding: 2%;
+  }
+  
+  input#contact-email {
+      color: white;
+  }
+  
+  input#contact-name {
+      color: white;
+  }
+  
+  textarea#contact-message {
+      color: white;
+  }
+  
+  .form-control {
+      background-color: rgba(0, 0, 0, 0.3) !important;
+      border-radius: 0;
+      color: white;
+      border: 1px solid #7f848a;
+  }
+  
+  .btn-secondary {
+      color: #fff;
+      background-color: rgba(0, 0, 0, 0.2);
+      border-color: #4e555b;
+  }
+  
+  .container-full.contact-us.bg-transparent h1 {
+      padding: 2%;
+      font-family: Spectral;
+  }
+  #contact-us{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    background-image: url("https://bit.ly/2NsK5sY");
+  }
+  #structure img{
+    margin-left: 250px;
   }
