@@ -3,7 +3,7 @@ html{
 }
 
   #top {
-    background-image: url("https://bit.ly/2q6Vdnj");
+    background-image: url("../images/assets/backgrounds/h_img.jpg");
     height:100vh;
     background-repeat: no-repeat;
     background-position: center;
@@ -178,4 +178,13 @@ html{
   }
   #structure img{
     margin-left: 250px;
+  }
+  #design-text{
+    display: none;
+    color: #000;
+    text-align: center;
+  }
+  #development-text{
+    display: none;
+    colo
   }
