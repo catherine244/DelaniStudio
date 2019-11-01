@@ -190,3 +190,9 @@ html{
     text-align: center;
     margin-top: 5%;
   }
+  #management-text{
+    display: none;
+    color: black;
+    text-align: center;
+    margin-top: 5%;
+  }
