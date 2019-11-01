@@ -183,6 +183,7 @@ html{
     display: none;
     color: #000;
     text-align: center;
+    margin-top: 5%;
   }
   #development-text{
     display: none;
@@ -199,4 +200,22 @@ html{
   #design{
     margin-top: 5%;
     margin-right: 40%;
+    color: #000;
+    text-align: center;
+  
+  }
+  #design h5{
+    margin-top: 30px;
+    margin-left: 70%;
+    font-weight: bold;
+  }
+  #development {
+    margin-top:10%;
+    margin-right: 40%;
+  }
+  #development h5{
+    color: black;
+    margin-top:30px;
+    margin-left: 70%;
+    font-weight: bold;
   }
