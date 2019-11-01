@@ -34,7 +34,7 @@ html{
     text-align: center;
   }
   .services {
-    background-image: url("https://bit.ly/2qShTrA");
+    background-image: url("../images/assets/backgrounds/s_image.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -195,4 +195,8 @@ html{
     color: black;
     text-align: center;
     margin-top: 5%;
+  }
+  #design{
+    margin-top: 5%;
+    margin-right: 40%;
   }
