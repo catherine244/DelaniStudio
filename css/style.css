@@ -43,6 +43,9 @@ html{
     font-size: 2.5vh;
     font-weight: bold;
   }
+  .services p{
+    text-align: center;
+  }
   .About, .services {
     font-family: "Lora";
   }
@@ -62,8 +65,9 @@ html{
   
   .portfolio h1{
     text-align: center;
-    padding-bottom: 3%;
+    /* padding-bottom: 3%; */
     padding-top:3%;
+    margin-top: 20%;
   }
   
   .portfolio img{
@@ -219,3 +223,13 @@ html{
     margin-left: 70%;
     font-weight: bold;
   }
+#management {
+  margin-top: 8%;
+  margin-right: 30%;
+}
+#management h5{
+  color: #000;
+  margin-top: 5%;
+  margin-left: 70%;
+  font-weight: bold;
+}
