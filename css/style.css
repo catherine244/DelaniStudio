@@ -30,6 +30,9 @@ html{
     font-size: 2.5vh;
     font-weight: bold;
   }
+  #about p {
+    text-align: center;
+  }
   .services h1{
     text-align: center;
   }
