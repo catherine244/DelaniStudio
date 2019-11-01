@@ -186,5 +186,7 @@ html{
   }
   #development-text{
     display: none;
-    colo
+    color: black;
+    text-align: center;
+    margin-top: 5%;
   }
