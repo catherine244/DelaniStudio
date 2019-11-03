@@ -120,6 +120,17 @@ html{
     height: 60vh;
     background-size: cover;
   }
+  .Contacts h1{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+  }
+  #username{
+    width: 50vh;
+    margin-left:50vh;
+    padding: 2%;
+    color:white;
+  }
   
   
   #structure img{
