@@ -115,6 +115,10 @@ html{
   }
   .Contacts{
     background-image: url("../images/assets/backgrounds/c_image.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 60vh;
+    background-size: cover;
   }
   
   
