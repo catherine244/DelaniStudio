@@ -133,56 +133,7 @@ html{
       background-color: white;
   }
   
-  .row.button {
-      padding-bottom: 1%;
-  }
   
-  h1#contact-header {
-      color: white;
-      padding: 2%;
-      font-family: Spectral;
-  }
-  
-  div#footer {
-      padding: 2%;
-  }
-  
-  input#contact-email {
-      color: white;
-  }
-  
-  input#contact-name {
-      color: white;
-  }
-  
-  textarea#contact-message {
-      color: white;
-  }
-  
-  .form-control {
-      background-color: rgba(0, 0, 0, 0.3) !important;
-      border-radius: 0;
-      color: white;
-      border: 1px solid #7f848a;
-  }
-  
-  .btn-secondary {
-      color: #fff;
-      background-color: rgba(0, 0, 0, 0.2);
-      border-color: #4e555b;
-  }
-  
-  .container-full.contact-us.bg-transparent h1 {
-      padding: 2%;
-      font-family: Spectral;
-  }
-  #contact-us{
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 60vh;
-    background-image: url("https://bit.ly/2NsK5sY");
-  }
   #structure img{
     margin-left: 250px;
   }
