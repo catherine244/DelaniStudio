@@ -50,6 +50,16 @@ $(document).ready(function(){
          $(overlay[indexofwrap]).hide();
      })
      })
-     
+     var key = '656411902e30cfa0d0e5a4982ac3e542-us5';
+$("button").click(function(event) {
+  event.preventDefault();
+  var user = document.getElementById('username').value;
+  alert("Dear " + user + ", we have received your message. Thank you for reaching out to us.");
+});
+$("button").on('click', function(){
+  $('form').each(function(){
+    this.reset();
+  });
+});
 });
 
