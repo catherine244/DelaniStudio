@@ -137,9 +137,10 @@ html{
     width: 50vh;
   }
   #message{
-    margin-left:70vh;
-    margin-top: 10%;
+    margin-left:60vh;
+    margin-top: 5%;
     color: white;
+    width: 110vh;
   }
   
   #structure img{
