@@ -131,6 +131,11 @@ html{
     padding: 2%;
     color:white;
   }
+  #email{
+    margin-left: 50vh;
+    color: white;
+    width: 50vh;
+  }
   
   
   #structure img{
