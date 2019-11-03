@@ -113,7 +113,9 @@ html{
       font-family: Spectral;
   
   }
-  
+  .Contacts{
+    background-image: url("../images/assets/backgrounds/c_image.jpg");
+  }
   
   
   #structure img{
