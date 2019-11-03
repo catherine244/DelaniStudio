@@ -50,7 +50,17 @@ $(document).ready(function(){
          $(overlay[indexofwrap]).hide();
      })
      })
-     var key = '656411902e30cfa0d0e5a4982ac3e542-us5';
+//    $("#contact-us").submit(function() {
+//     var nameInput = $("input#name").val();
+
+//     var emailInput = $("input#email").val();
+//     var messageInput = $("textarea#message").val();
+
+//     alert(nameInput + " we have received your message. Thank you for reaching out to us.");
+
+//   })
+});
+var key = '1c2089a31a00d28af6cb0e553ed84697-us20';
 $("button").click(function(event) {
   event.preventDefault();
   var user = document.getElementById('username').value;
@@ -61,5 +71,3 @@ $("button").on('click', function(){
     this.reset();
   });
 });
-});
-
