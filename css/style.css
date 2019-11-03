@@ -191,10 +191,11 @@ color:white;
 margin-left: 50vh;
 color: white;
 }
-.message{
-margin-left:60vh;
+#message{
+margin-left:50vh;
 color: white;
 width: 110vh;
+margin-top: 5%;
 }
 #submit{
 margin-left: 80vh;
