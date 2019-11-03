@@ -114,24 +114,6 @@ html{
   
   }
   
-  .contact-us {
-    background-image: url(../images/backgrounds/c_image.jpg);
-    background-size: cover;
-    width: 100%;
-    color: white;
-  }
-  
-  .contact-us h3 {
-    padding: 2%;
-    font-family: Spectral;
-  }
-  
-  button#submit-button {
-      border: solid;
-      border-style: double;
-      border-color: white;
-      background-color: white;
-  }
   
   
   #structure img{
