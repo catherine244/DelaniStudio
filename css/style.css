@@ -11,6 +11,7 @@ html{
     display: flex;
     text-align: center;
     background-size: cover;
+  
 
   }
   #about h1{
@@ -52,11 +53,64 @@ html{
   .About, .services {
     font-family: "Lora";
   }
-   h3 {
+  h3 {
     text-align: center;
     font-family: Spectral;
   }
+  #work{
+    padding: 4%;
+  }
   
+  #design-text{
+    display: none;
+    color: #000;
+    text-align: center;
+    margin-top: 5%;
+  }
+  #development-text{
+    display: none;
+    color: black;
+    text-align: center;
+    margin-top: 5%;
+  }
+  #management-text{
+    display: none;
+    color: black;
+    text-align: center;
+    margin-top: 5%;
+  }
+  #design{
+    margin-top: 5%;
+    margin-right: 30vh;
+    color: #000;
+    text-align: center
+    
+  }
+  #design h5{
+    margin-top: 40px;
+    margin-left: 90%;
+    font-weight: bold;
+  }
+  #development {
+    margin-top:10%;
+    margin-right: 40%;
+  }
+  #development h5{
+    color: black;
+    margin-top:30px;
+    margin-left: 70%;
+    font-weight: bold;
+  }
+  #management {
+    margin-top: 8%;
+    margin-right: 30%;
+  }
+  #management h5{
+    color: #000;
+    margin-top: 5%;
+    margin-left: 70%;
+    font-weight: bold;
+  }
   div#what-we-do-title {
       padding-top: 2%;
   }
@@ -116,56 +170,6 @@ html{
   
   #structure img{
     margin-left: 250px;
-  }
-  #design-text{
-    display: none;
-    color: #000;
-    text-align: center;
-    margin-top: 5%;
-  }
-  #development-text{
-    display: none;
-    color: black;
-    text-align: center;
-    margin-top: 5%;
-  }
-  #management-text{
-    display: none;
-    color: black;
-    text-align: center;
-    margin-top: 5%;
-  }
-  #design{
-    margin-top: 5%;
-    margin-right: 40%;
-    color: #000;
-    text-align: center;
-    
-  }
-  #design h5{
-    margin-top: 30px;
-    margin-left: 70%;
-    font-weight: bold;
-  }
-  #development {
-    margin-top:10%;
-    margin-right: 40%;
-  }
-  #development h5{
-    color: black;
-    margin-top:30px;
-    margin-left: 70%;
-    font-weight: bold;
-  }
-  #management {
-    margin-top: 8%;
-    margin-right: 30%;
-  }
-  #management h5{
-    color: #000;
-    margin-top: 5%;
-    margin-left: 70%;
-    font-weight: bold;
   }
   
 .Contacts{
