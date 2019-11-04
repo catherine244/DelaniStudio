@@ -2,10 +2,11 @@
 - Delani Studio.
 
 ## Description
-- Delani studio is a website that is dedicated to connecting you with world class developers to build your website. Through the website, you can get to know who we are and what we do too. We also give you a chance to take a sneak peek at our past projects and contact us for enquiry and more. The video below is a brief explanation  of how the website works.
-![Imgur video](https://imgur.com/NlQDDRN.gif)
+- Delani studio is a website that is dedicated to connecting you with world class developers to build your website. Through the website, you can get to know who we are and what we do too. We also give you a chance to take a sneak peek at our past projects and contact us for enquiry and more.
 
-## Sections
+##  BDD 
+<img src = "images/DS.jpg">
+
 * **About us**
 Get to know who we are and what our values are.
 * **Services**
