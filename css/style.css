@@ -202,7 +202,8 @@ width: 40vh;
 }
 #message{
 color:black;
-margin-left: 1vh;
+margin-left: 4vh;
+width: 50vw;
 /* margin-right: 40vh; */
 }
 #copyright{
