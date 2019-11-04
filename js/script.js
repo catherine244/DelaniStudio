@@ -61,10 +61,13 @@ $(document).ready(function(){
 //   })
 });
 var key = '1c2089a31a00d28af6cb0e553ed84697-us20';
-$("button").click(function(event) {
+  var massage = document.getElementById("message");
+ message.addEventListener("keyup", function(event) {
+        if (event.keyCode === 13) {
   event.preventDefault();
   var user = document.getElementById('username').value;
   alert("Dear " + user + ", we have received your message. Thank you for reaching out to us.");
+};
 });
 $("button").on('click', function(){
   $('form').each(function(){

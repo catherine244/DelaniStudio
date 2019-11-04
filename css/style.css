@@ -133,13 +133,14 @@ html{
   }
   
   .portoverlay1,.portoverlay2, .portoverlay3,.portoverlay4,.portoverlay5,.portoverlay6,.portoverlay7,.portoverlay8{
-      width:95%;
+      width:90%;
       color:white;
-      height:91%;
+      height:50%;
       position: absolute;
       top:0;
       background-color: rgba(0, 0, 0, 0.7);
       display:none;
+      margin-top: 15%;
   
   }
   
@@ -204,6 +205,7 @@ margin-top: 5%;
 #submit{
 margin-left: 80vh;
 margin-top: 5%;
+display: none;
 }
 #copyright{
   margin-left: 100vh;
